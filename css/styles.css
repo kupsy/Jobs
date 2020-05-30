@@ -12,7 +12,7 @@ h3 {
 }
 
 p {
-    color: #8f8f8f;
+    color: #555353;
 }
 
     /* Headings */
@@ -38,12 +38,12 @@ p {
     /* Sections */
 
 .colored-section {
-    background-color: rgb(214, 171, 28);
+    background-color: rgb(15, 15, 14);
     color: #fff;
 }
 
 .white-section {
-    background-color: #ef8172;
+    background-color: #f0edec;
 }
 
     /* Navigation bar */
@@ -114,11 +114,11 @@ p {
     /* Testimonals Section */
 
 #testimonials {
-    background-color: #57312d;
+    background-color: #be827b;
 }
 
 .testimonial-text {
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.5;
 }
 
@@ -150,6 +150,7 @@ p {
 
 .partners-column {
     padding: 3% 2%;
+    align-items: center;
 }
 
 @media (max-width: 1028px) {
